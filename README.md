@@ -69,6 +69,7 @@ Web-based biology-related visualization tools are often scattered across the int
 - [EzMol](http://www.sbg.bio.ic.ac.uk/~ezmol/) - Visualisation and image production of protein and nucleic acid structures.
 - [LiteMol](https://webchemdev.ncbr.muni.cz/LiteMol/) - Visualization of large-scale 
 macromolecular structure data.
+- [pdb2print](https://pdb2print.org) - Convert a PDB structure into a 3D-printable 3MF file, with one object per chain, magnet pockets and custom display stands.
 
 
 ## Spatial transcriptomics
